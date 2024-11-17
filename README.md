@@ -1,7 +1,7 @@
 
 # Hi, my name is Robin!
 
-I am a self-teached developer from Czech republic.  
+I am a self-teached developer from Czech republic. This README is a **DEMO**.
 
 
 ## 🚀 About Me
