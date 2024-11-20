@@ -28,7 +28,7 @@ I develop websites, web-apps, automations and various bots for my online marketi
 
 **Front-End:** React, Vue.js, HTML, CSS
 
-**Back-End:** Python, JavaScript, zsh/bash CLI, Next.js, C/#C
+**Back-End:** Python, JavaScript, zsh/bash CLI, Next.js, C
 
 **Database:** Redis, Airtable
 
