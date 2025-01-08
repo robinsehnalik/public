@@ -1,7 +1,7 @@
 
 # Hi, my name is Robin!
 
-I am a self-teached developer from Czech republic.  
+I am a self-teached developer from Czech republic. This README is a **DEMO**.
 
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ I develop websites, web-apps, automations and various bots for my online marketi
 ## ⚡️ My projects
  - [Personal finance tracker](https://github.com/robinsehnalik/public/tree/main/Personal%20finance%20tracker)
  - [Redis](https://github.com/robinsehnalik/public/tree/main/Redis)
- - [Communication network (rocket.chat)](https://github.com/robinsehnalik/public/tree/main/Communications)
+ - [rocket.chat config](https://github.com/robinsehnalik/public/tree/main/Communications)
  - [HTTP Server](https://github.com/robinsehnalik/public/tree/main/HTTP%20server)
  - [Trained LLM's](https://github.com/robinsehnalik/public/tree/main/Neural%20network%20(LLM))
  - [Bots](https://github.com/robinsehnalik/public/tree/main/Bots)
@@ -28,7 +28,7 @@ I develop websites, web-apps, automations and various bots for my online marketi
 
 **Front-End:** React, Vue.js, HTML, CSS
 
-**Back-End:** Python, JavaScript, zsh/bash CLI, Next.js, C/#C
+**Back-End:** Python, JavaScript, zsh/bash CLI, Next.js, C
 
 **Database:** Redis, Airtable
 
