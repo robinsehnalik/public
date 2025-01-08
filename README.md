@@ -56,7 +56,7 @@ Yes.
 I also offer monthly tech support for a fee.
 Visit my store on store.sehnalik.com to purchase.
 
-#### How can I get in contact when it comes to SMM/OFM?
+#### How can I get in contact when it comes to SMM?
 
 Just visit my websites and use the contact information provided there.
 
