@@ -21,8 +21,8 @@ I develop websites, web-apps, automations and various bots for my online marketi
  - [Communication network (rocket.chat)](https://github.com/robinsehnalik/public/tree/main/Communications)
  - [HTTP Server](https://github.com/robinsehnalik/public/tree/main/HTTP%20server)
  - [Trained LLM's](https://github.com/robinsehnalik/public/tree/main/Neural%20network%20(LLM))
-  - [Bots](https://github.com/robinsehnalik/public/tree/main/Bots)
-   - [Git Config](https://github.com/robinsehnalik/public/tree/main/Git)
+ - [Bots](https://github.com/robinsehnalik/public/tree/main/Bots)
+ - [Git Config](https://github.com/robinsehnalik/public/tree/main/Git)
 
 ## Tech Stack
 
