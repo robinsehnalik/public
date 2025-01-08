@@ -1,27 +1,28 @@
 
 # Hi, my name is Robin!
 
-I am a self-teached developer from Czech republic. This README is a **DEMO**.
+I am a self-teached developer from Czech republic. This README is a **DEMO**. So don't take it too seriously. 
 
 
 ## 🚀 About Me
-I develop websites, web-apps, automations and various bots for my online marketing business. I also like to build complex projects to make my life easier. In my personal life I am passionate about travelling, fashion and music. 
+I develop websites, web-apps, automations and various bots for my online marketing business. I also like to build complex projects to make my life more automated and easier. In my personal life I am passionate about travelling, fashion, gaming and music. 
 
 
 ## 🛠 Skills
 - SMM and marketing
 - Programming in various languages
-- Rich social and interpersonal skills
+- Analytical thinking
+- Problem solving
+- Resilience and agility
 - Business management and developement
 
+*and many more...*
 
 ## ⚡️ My projects
  - [Personal finance tracker](https://github.com/robinsehnalik/public/tree/main/Personal%20finance%20tracker)
  - [Redis](https://github.com/robinsehnalik/public/tree/main/Redis)
- - [rocket.chat config](https://github.com/robinsehnalik/public/tree/main/Communications)
  - [HTTP Server](https://github.com/robinsehnalik/public/tree/main/HTTP%20server)
  - [Trained LLM's](https://github.com/robinsehnalik/public/tree/main/Neural%20network%20(LLM))
- - [Bots](https://github.com/robinsehnalik/public/tree/main/Bots)
  - [Git Config](https://github.com/robinsehnalik/public/tree/main/Git)
 
 ## Tech Stack
