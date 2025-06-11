@@ -21,7 +21,6 @@ _and many more..._
 
 - [Personal finance tracker](https://github.com/robinsehnalik/public/tree/main/Personal%20finance%20tracker)
 - [Redis](https://github.com/robinsehnalik/public/tree/main/Redis)
-- [HTTP Server](https://github.com/robinsehnalik/public/tree/main/HTTP%20server)
 - [Trained LLM's](<https://github.com/robinsehnalik/public/tree/main/Neural%20network%20(LLM)>)
 - [Git Config](https://github.com/robinsehnalik/public/tree/main/Git)
 
