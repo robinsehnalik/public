@@ -8,22 +8,10 @@ I develop websites, web-apps, automations and various bots for my online marketi
 
 ## 🛠 Skills
 
-- SMM and marketing
-- Programming in various languages
-- Analytical thinking
-- Problem solving
-- Resilience and agility
-- Business management and developement
-
-_and many more..._
-
+- 
 ## ⚡️ My projects
 
-- [Personal finance tracker](https://github.com/robinsehnalik/public/tree/main/Personal%20finance%20tracker)
-- [Redis](https://github.com/robinsehnalik/public/tree/main/Redis)
-- [HTTP Server](https://github.com/robinsehnalik/public/tree/main/HTTP%20server)
-- [Trained LLM's](<https://github.com/robinsehnalik/public/tree/main/Neural%20network%20(LLM)>)
-- [Git Config](https://github.com/robinsehnalik/public/tree/main/Git)
+- 
 
 ## Tech Stack
 
@@ -31,7 +19,7 @@ _and many more..._
 
 **Back-End:** Python, JavaScript, bash CLI, Next.js, C
 
-**Database:** Redis, Airtable
+**Database:** Redis, SQL
 
 **Cloud:** Linux Server Management, Google Cloud Platform
 
@@ -56,7 +44,7 @@ Yes.
 I also offer monthly tech support for a fee.
 Visit my store on store.sehnalik.com to purchase.
 
-#### How can I get in contact when it comes to SMM/OFM?
+#### How can I get in contact when it comes to SMM?
 
 Just visit my websites and use the contact information provided there.
 
